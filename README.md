@@ -5,16 +5,16 @@ The purpose of this analysis was to use use machine learning and data-resampling
 
 ## Results
 
-Logistic Regression predictions with the original data:
-    -Accuracy score: 95%
-    -Precision score: 85%
-    -Recall score:   91%
+Logistic Regression predictions with the original data:  
+    -Accuracy score: 95%  
+    -Precision score: 85%  
+    -Recall score:   91%  
 
 
-Logistic Regression predictions with the resampled data:
-    -Accuracy score: 99%
-    -Precision score: 84%
-    -Recall score:   99%
+Logistic Regression predictions with the resampled data:  
+    -Accuracy score: 99%  
+    -Precision score: 84%  
+    -Recall score:   99%  
     
     
 ## Summary
